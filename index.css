@@ -17,6 +17,7 @@
       --section-bg: rgba(241, 245, 249, 0.5);
   }
 
+
   body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: var(--dark);
