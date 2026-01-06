@@ -538,7 +538,7 @@
   /* Contact Section */
   .contact-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      grid-template-columns: 1fr 1fr ;
       gap: 2rem;
       margin-top: 3rem;
   }
@@ -571,6 +571,7 @@
   .contact-item h3 {
       font-size: 1.2rem;
       margin-bottom: 0.5rem;
+      color: var(--primary);
   }
 
   .contact-item p {
